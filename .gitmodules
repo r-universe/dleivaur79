@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RcmdrPlugin.EACSPIR"]
+	path = RcmdrPlugin.EACSPIR
+	url = https://github.com/cran/RcmdrPlugin.EACSPIR
+	shallow = true
+	registered = true
+[submodule "steepness"]
+	path = steepness
+	url = https://github.com/cran/steepness
+	shallow = true
+	registered = true
